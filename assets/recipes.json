@@ -1,0 +1,107 @@
+[
+  {
+    "image": "assets/recipes/recipe3.jpg",
+    "name": "Kung Pao Chicken",
+    "calories": "450 kcal",
+    "time": "25 min",
+    "category": "Chinese"
+  },
+  {
+    "image": "assets/recipes/recipe1.jpg",
+    "name": "Grilled Chicken Salad",
+    "calories": "200 kcal",
+    "time": "15 min",
+    "category": "Continental"
+  },
+  {
+    "image": "assets/recipes/recipe2.jpg",
+    "name": "Creamy Mushroom Soup",
+    "calories": "180 kcal",
+    "time": "20 min",
+    "category": "Continental"
+  },
+  {
+    "image": "assets/recipes/recipe4.jpg",
+    "name": "Vegetable Spring Rolls",
+    "calories": "290 kcal",
+    "time": "15 min",
+    "category": "Chinese"
+  },
+  {
+    "image": "assets/recipes/recipe5.jpg",
+    "name": "Smoothie Bowl",
+    "calories": "250 kcal",
+    "time": "10 min",
+    "category": "Breakfast"
+  },
+  {
+    "image": "assets/recipes/recipe6.jpeg",
+    "name": "Avocado Toast with Egg",
+    "calories": "300 kcal",
+    "time": "12 min",
+    "category": "Breakfast"
+  },
+  {
+    "image": "assets/recipes/recipe7.jpeg",
+    "name": "Chocolate Lava Cake",
+    "calories": "420 kcal",
+    "time": "30 min",
+    "category": "Dessert"
+  },
+  {
+    "image": "assets/recipes/recipe8.jpeg",
+    "name": "Strawberry Cheesecake",
+    "calories": "390 kcal",
+    "time": "45 min",
+    "category": "Dessert"
+  },
+  {
+    "image": "assets/recipes/recipe9.jpeg",
+    "name": "Chicken Biryani",
+    "calories": "500 kcal",
+    "time": "40 min",
+    "category": "Pakistani"
+  },
+  {
+    "image": "assets/recipes/recipe10.jpeg",
+    "name": "Aloo Paratha with Yogurt",
+    "calories": "430 kcal",
+    "time": "25 min",
+    "category": "Pakistani"
+  },
+  {
+    "image": "assets/recipes/recipe11.jpeg",
+    "name": "Fettuccine Alfredo",
+    "calories": "460 kcal",
+    "time": "30 min",
+    "category": "Continental"
+  },
+  {
+    "image": "assets/recipes/recipe12.jpeg",
+    "name": "Beef Chow Mein",
+    "calories": "520 kcal",
+    "time": "35 min",
+    "category": "Chinese"
+  },
+  {
+    "image": "assets/recipes/recipe13.jpeg",
+    "name": "French Toast with Berries",
+    "calories": "330 kcal",
+    "time": "15 min",
+    "category": "Breakfast"
+  },
+  {
+    "image": "assets/recipes/recipe14.jpeg",
+    "name": "Apple Cinnamon Pancakes",
+    "calories": "310 kcal",
+    "time": "20 min",
+    "category": "Breakfast"
+  },
+  {
+    "image": "assets/recipes/recipe15.jpeg",
+    "name": "Molten Chocolate Brownie",
+    "calories": "450 kcal",
+    "time": "25 min",
+    "category": "Dessert"
+  }
+]

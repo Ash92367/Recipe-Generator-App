@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Protein Breakfast Bowl",
+    "image": "assets/meals/breakfast.jpg",
+    "meal": "Breakfast",
+    "calories": 290,
+    "protein": 16,
+    "carbs": 56,
+    "ingredients": ["Egg", "Broccoli", "Meat"]
+  },
+  {
+    "name": "Grilled Chicken Lunch",
+    "image": "assets/meals/lunch.jpg",
+    "meal": "Lunch",
+    "calories": 420,
+    "protein": 32,
+    "carbs": 45,
+    "ingredients": ["Chicken", "Corn", "Carrot"]
+  },
+  {
+    "name": "Veggie Dinner Delight",
+    "image": "assets/meals/dinner.jpg",
+    "meal": "Dinner",
+    "calories": 350,
+    "protein": 20,
+    "carbs": 60,
+    "ingredients": ["Sweet Potato", "Lettuce", "Broccoli"]
+  },
+  {
+    "name": "Oats & Berry Parfait",
+    "image": "assets/meals/oats_parafait.jpg",
+    "meal": "Breakfast",
+    "calories": 250,
+    "protein": 12,
+    "carbs": 38,
+    "ingredients": ["Oats", "Yogurt", "Blueberry"]
+  },
+  {
+    "name": "Tofu Power Bowl",
+    "image": "assets/meals/tofu_bowl.jpg",
+    "meal": "Lunch",
+    "calories": 400,
+    "protein": 25,
+    "carbs": 42,
+    "ingredients": ["Tofu", "Carrot", "Broccoli"]
+  },
+  {
+    "name": "Pasta Primavera",
+    "image": "assets/meals/pasta_primavera.jpg",
+    "meal": "Dinner",
+    "calories": 470,
+    "protein": 18,
+    "carbs": 65,
+    "ingredients": ["Pasta", "Zucchini", "Carrot"]
+  },
+  {
+    "name": "Avocado Toast",
+    "image": "assets/meals/avacado_toast.jpg",
+    "meal": "Breakfast",
+    "calories": 280,
+    "protein": 9,
+    "carbs": 30,
+    "ingredients": ["Bread", "Avocado", "Egg"]
+  },
+  {
+    "name": "Salmon Grain Bowl",
+    "image": "assets/meals/salmon_bowl.jpg",
+    "meal": "Lunch",
+    "calories": 520,
+    "protein": 34,
+    "carbs": 50,
+    "ingredients": ["Salmon", "Corn", "Spinach"]
+  },
+  {
+    "name": "Stuffed Bell Peppers",
+    "image": "assets/meals/stuffed_peppers.jpg",
+    "meal": "Dinner",
+    "calories": 390,
+    "protein": 22,
+    "carbs": 44,
+    "ingredients": ["Bell Pepper", "Rice", "Meat"]
+  }
+]
